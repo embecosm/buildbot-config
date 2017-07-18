@@ -1,0 +1,5 @@
+gitpoller-workdir
+http.log
+state.sqlite
+twistd.log
+twistd.pid
